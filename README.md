@@ -13,5 +13,5 @@ I am a BCA graduate passionate about AI, OpenCV, and Creative Design. I blend te
 - OpenCV,imutils,SQL
 
 📫 Contact
-- Email:rajashreeradha259@gmail.com
+- Email:rajashree.careerpath@gmail.com
   
